@@ -1,0 +1,110 @@
+*{ 
+    margin: 0; 
+    padding: 0; 
+} 
+ 
+body{ 
+    font-family: 'Source Serif Pro', serif; 
+} 
+ 
+.cabecalho { 
+    background-color: #ff9eda; 
+    color: rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: space-around; 
+    align-items: center; 
+    padding: 7px 0; 
+} 
+ 
+.img1-imagem{ 
+    width: 20%; 
+} 
+ 
+.doesangue{ 
+    background-color:  #ff9eda; 
+    color: rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: center; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    padding: 100px 0; 
+} 
+ 
+.doesangue2{ 
+    background-color:  #ff9eda; 
+    color: rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: center; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    padding: 100px 0; 
+} 
+ 
+.doesangue3{ 
+    background-color:  #ff9eda; 
+    color: rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: center; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    padding: 100px 0; 
+} 
+ 
+.doesangue4{ 
+    background-color:  #ff9eda; 
+    color: rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: center; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    padding: 100px 0; 
+} 
+ 
+.doesangue5{ 
+    background-color:  #ff9eda; 
+    color: rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: center; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    padding: 100px 0; 
+} 
+ 
+.doesangue6{ 
+    background-color:  #ff9eda; 
+    color: rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: center; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    padding: 100px 0; 
+} 
+ 
+.doesangue7{ 
+    background-color:  #ff9eda; 
+    color: rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: center; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    padding: 100px 0; 
+} 
+ 
+.doesangue8{ 
+    background-color:  #ff9eda; 
+    color: rgb(0, 0, 0); 
+    display: flex; 
+    justify-content: center; 
+    justify-content: space-evenly; 
+    align-items: center; 
+    padding: 100px 0; 
+} 
+ 
+.doesangue-div-conteudo{ 
+    width: 20%; 
+} 
+ 
+.rodape{ 
+    background-color: #ff9eda; 
+    text-align: center; 
+}
